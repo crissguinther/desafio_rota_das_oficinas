@@ -4,7 +4,7 @@ Seja bem vindo(a) ao meu projeto para o desafio!
 
 ## Link para o projeto
 
-
+Para ver o projeto rodando no navegador, acesse o seguinte link: https://criss-rota-das-oficinas.netlify.app/
 
 ## Rodando o projeto localmente
 
